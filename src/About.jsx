@@ -1,4 +1,4 @@
-'import React from react'
+'simport React from react'
 
 const About = () => {
   return (
